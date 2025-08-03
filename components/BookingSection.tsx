@@ -1,3 +1,5 @@
+//bookingsection
+
 const BookingSection: React.FC<{ price: number }> = ({ price }) => {
   return (
     <div className="bg-white p-6 shadow-md rounded-lg">
